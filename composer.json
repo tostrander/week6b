@@ -1,0 +1,14 @@
+{
+  "name": "tostrander/328/week6b",
+  "description": "Week 6 - Templating",
+  "license": "open source",
+  "authors": [
+    {
+      "name": "Tina Ostrander",
+      "email": "tostrander@greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
